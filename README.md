@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, everyone!
+
+My name is Michael Smith. I am enrolled in the Research in Computer Science Course at Lewis University!
